@@ -7,8 +7,6 @@
 
 <br>
 
-###  Quick Status
-> *I'm currently multi-tasking: I am breathing, procrastinating, and stressing about tomorrow, all at once.*
 
 <br>
 
