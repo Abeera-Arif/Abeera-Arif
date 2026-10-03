@@ -20,9 +20,8 @@ width="180"
 src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=false&vCenter=true&width=450&lines=Creative+Developer+%7C+Artist;Learning%2C+building%2C+experimenting.;Welcome+to+my+little+corner+of+GitHub+%E2%9C%A8"
 />
 
-<br>
 
-`still learning • still building • still experimenting`
+
 
 </td>
 
