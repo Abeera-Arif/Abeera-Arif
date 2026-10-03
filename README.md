@@ -1,13 +1,59 @@
+<div align="center">
+
+<table>
+<tr>
+
+<td width="35%" align="center">
+
+<img
+src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHN5bnoyN2RjcHM3Nnl0NGltZ3gyY2VobWo0d3B4NnE5aW9kb3M2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bByirRykxSn1cV5gqB/giphy.gif"
+width="180"
+/>
+
+</td>
+
+<td width="65%" align="left">
+
+# Hi, I'm Zeli ✦
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=false&vCenter=true&width=450&lines=Creative+Developer+%7C+Artist;Learning%2C+building%2C+experimenting.;Welcome+to+my+little+corner+of+GitHub+%E2%9C%A8"
+/>
+
+<br>
+
+`still learning • still building • still experimenting`
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
 ---
+
+## ✦ about me
+
+I'm **Zeli** 
+
+> *still learning. still building. still experimenting.*
+
+---
+
+## 🛠️ skills
 
 <div align="center">
 
-### ✦ about me
+### `languages`
 
-I'm **Zeli**
+<img src="https://skillicons.dev/icons?i=python,html,css,js" />
 
+<br><br>
 
-`code`  ·  `art`  ·  `design`  ·  `ideas`
+### `tools`
+
+<img src="https://skillicons.dev/icons?i=github,vscode,figma,blender" />
 
 </div>
 
@@ -16,51 +62,27 @@ I'm **Zeli**
 <table>
 <tr>
 
-<!-- LEFT HALF -->
+<td width="60%" align="center">
 
-<td width="50%" valign="top">
-
-<div align="center">
-
-#### `skills`
+## ✦ currently ✦
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,python" />
+### Python🐍 
 
-<br><br>
-
-`HTML`　`Python`
-
-<br><br>
-
-#### `tools`
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=openai,github,vscode" />
 
-<br><br>
-
-`GPT`　`GitHub`　`VS Code`
-
-</div>
 
 </td>
 
-
-<!-- RIGHT HALF -->
-
-<td width="50%" align="center" valign="middle">
+<td width="40%" align="center">
 
 <img
 src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmxhNmdjcGZuMmEybnluNDZ1cndneTFmZDU4aTBsOXJ1eHI2YnJzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"
-width="200"
+width="180"
 />
-
-<br><br>
-
-`✦`　`☁`　`✦`
 
 </td>
 
@@ -71,10 +93,6 @@ width="200"
 
 <div align="center">
 
-`currently learning`　·　`currently making`　·　`currently curious`
-
-<br><br>
-
-✦　✦　✦
+`✦` `✦` `✦`
 
 </div>
