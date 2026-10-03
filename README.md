@@ -37,7 +37,6 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&
 
 I'm **Zeli** 
 
-
 > *still learning. still building. still experimenting.*
 
 ---
@@ -52,7 +51,7 @@ I'm **Zeli**
 
 <br><br>
 
-### `tools & creative`
+### `tools`
 
 <img src="https://skillicons.dev/icons?i=github,vscode,figma,blender" />
 
@@ -60,26 +59,39 @@ I'm **Zeli**
 
 ---
 
-<div align="center">
+<table>
+<tr>
+
+<td width="60%" align="center">
 
 ## ✦ currently ✦
 
-**🐍 Python**
+<br>
+
+### Python🐍 
+
+
+<br>
 
 
 
-</div>
+</td>
+
+<td width="40%" align="center">
+
+<img
+src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmxhNmdjcGZuMmEybnluNDZ1cndneTFmZDU4aTBsOXJ1eHI2YnJzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"
+width="180"
+/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 <div align="center">
-
-<img
-src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmxhNmdjcGZuMmEybnluNDZ1cndneTFmZDU4aTBsOXJ1eHI2YnJzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"
-width="220"
-/>
-
-<br><br>
 
 `✦` `✦` `✦`
 
