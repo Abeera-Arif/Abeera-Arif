@@ -22,7 +22,6 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&
 
 <br>
 
-`still learning • still building • still experimenting`
 
 </td>
 
@@ -37,7 +36,6 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&
 
 I'm **Zeli** 
 
-> *still learning. still building. still experimenting.*
 
 ---
 
