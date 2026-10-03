@@ -1,86 +1,66 @@
+---
+
 <div align="center">
 
-<table>
-<tr>
+### ✦ about me
 
-<td width="35%" align="center">
-
-<img
-src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHN5bnoyN2RjcHM3Nnl0NGltZ3gyY2VobWo0d3B4NnE5aW9kb3M2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bByirRykxSn1cV5gqB/giphy.gif"
-width="180"
-/>
-
-</td>
-
-<td width="65%" align="left">
-
-# Hi, I'm Zeli ✦
-
-<img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=false&vCenter=true&width=450&lines=Creative+Developer+%7C+Artist;Learning%2C+building%2C+experimenting.;Welcome+to+my+little+corner+of+GitHub+%E2%9C%A8"
-/>
-
-<br>
+I'm **Zeli**
 
 
-</td>
-
-</tr>
-</table>
+`code`  ·  `art`  ·  `design`  ·  `ideas`
 
 </div>
 
 ---
 
-## ✦ about me
+<table>
+<tr>
 
-I'm **Zeli** 
+<!-- LEFT HALF -->
 
-
----
-
-## 🛠️ skills
+<td width="50%" valign="top">
 
 <div align="center">
 
-### `languages`
+#### `skills`
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js" />
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,python" />
 
 <br><br>
 
-### `tools`
+`HTML`　`Python`
 
-<img src="https://skillicons.dev/icons?i=github,vscode,figma,blender" />
+<br><br>
+
+#### `tools`
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=openai,github,vscode" />
+
+<br><br>
+
+`GPT`　`GitHub`　`VS Code`
 
 </div>
 
----
-
-<table>
-<tr>
-
-<td width="60%" align="center">
-
-## ✦ currently ✦
-
-<br>
-
-### Python🐍 
-
-
-<br>
-
-
-
 </td>
 
-<td width="40%" align="center">
+
+<!-- RIGHT HALF -->
+
+<td width="50%" align="center" valign="middle">
 
 <img
 src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmxhNmdjcGZuMmEybnluNDZ1cndneTFmZDU4aTBsOXJ1eHI2YnJzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"
-width="180"
+width="200"
 />
+
+<br><br>
+
+`✦`　`☁`　`✦`
 
 </td>
 
@@ -91,6 +71,10 @@ width="180"
 
 <div align="center">
 
-`✦` `✦` `✦`
+`currently learning`　·　`currently making`　·　`currently curious`
+
+<br><br>
+
+✦　✦　✦
 
 </div>
